@@ -1,0 +1,8 @@
+.idea/
+.tmp/
+bower_components/
+dist/
+node_modules/
+typings/
+yarn.lock
+.DS_Store
