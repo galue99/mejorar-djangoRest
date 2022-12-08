@@ -1,7 +1,7 @@
 Django==1.11.6
 Markdown==2.6.9
 argparse==1.2.1
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 django-filter==1.0.4
 djangorestframework==3.7.0
